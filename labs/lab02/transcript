@@ -1,0 +1,25 @@
+# Compile of seven_seg.v was successful.
+# Compile of seven_seg_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.lab_4
+# vsim work.lab_4 
+# Start time: 15:11:36 on Sep 16,2022
+# Loading work.lab_4
+add wave -position end sim:/lab_4/#INITIAL#13/*
+add wave -position end sim:/lab_4/#ALWAYS#17/*
+add wave -position end sim:/lab_4/#ALWAYS#31/*
+add wave -position end sim:/lab_4/#ASSIGN#46/*
+# ** UI-Msg: (vish-4014) No objects found matching '/lab_4/#ASSIGN#46/*'.
+add wave -position end sim:/lab_4/#ASSIGN#47/*
+run
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/lab02.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# „
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/lab02.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/lab02.mpf).  File can not be renamed.
+# End time: 15:03:56 on Sep 17,2022, Elapsed time: 23:52:20
+# Errors: 3, Warnings: 6

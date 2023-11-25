@@ -1,0 +1,85 @@
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 20:05:18 on Nov 03,2022
+# Loading work.testbench
+# Loading work.decoder_c
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/testbench/*
+run
+vsim work.tb
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# End time: 20:14:11 on Nov 03,2022, Elapsed time: 0:08:53
+# Errors: 3, Warnings: 2
+# vsim work.tb 
+# Start time: 20:14:11 on Nov 03,2022
+# Loading work.tb
+# Loading work.counter
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb/*
+run
+vsim work.tb_forward
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# End time: 21:32:42 on Nov 03,2022, Elapsed time: 1:18:31
+# Errors: 3, Warnings: 1
+# vsim work.tb_forward 
+# Start time: 21:32:42 on Nov 03,2022
+# Loading work.tb_forward
+# Loading work.counter_forward
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_forward/*
+run
+vsim work.tb_odd_even
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# End time: 22:14:54 on Nov 03,2022, Elapsed time: 0:42:12
+# Errors: 3, Warnings: 1
+# vsim work.tb_odd_even 
+# Start time: 22:14:54 on Nov 03,2022
+# Loading work.tb_odd_even
+# Loading work.counter_odd_even
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/tb_odd_even/*
+run
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/lab04.mpf).  File can not be renamed.
+# End time: 00:16:02 on Nov 04,2022, Elapsed time: 2:01:08
+# Errors: 6, Warnings: 2

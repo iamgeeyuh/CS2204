@@ -1,0 +1,71 @@
+C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/conditonal.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/conditonal.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_c
+
+Top level modules:
+	decoder_c
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_forward.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_forward.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_forward
+
+Top level modules:
+	tb_forward
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_odd_even.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_odd_even.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module counter_odd_even
+
+Top level modules:
+	counter_odd_even
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/testbench.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/primitive.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/primitive.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_p
+
+Top level modules:
+	decoder_p
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/assignment.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/assignment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module decoder_a
+
+Top level modules:
+	decoder_a
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_forward.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_forward.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module counter_forward
+
+Top level modules:
+	counter_forward
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_odd_even.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_odd_even.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_odd_even
+
+Top level modules:
+	tb_odd_even
+
+} {} {}}

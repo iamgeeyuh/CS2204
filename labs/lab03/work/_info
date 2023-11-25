@@ -1,0 +1,78 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vFullAdder
+Z0 !s110 1664565953
+!i10b 1
+!s100 dJXBo@5b1?4:ONO?JZ^i70
+IQ4108FjSV`C45^S2`65^o2
+Z1 dC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03
+w1664565536
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/FullAdder.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/FullAdder.v
+!i122 7
+L0 3 7
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1664565953.000000
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/FullAdder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@full@adder
+vripple_carry_adder
+R0
+!i10b 1
+!s100 H]CRALRS>7XTOP:dA?B]93
+IJNXUcK1km1MC^TWGH9HBB1
+R1
+w1664565534
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/ripple_carry_adder.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/ripple_carry_adder.v
+!i122 8
+L0 3 19
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/ripple_carry_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/ripple_carry_adder.v|
+!i113 1
+R5
+R6
+vtb
+R0
+!i10b 1
+!s100 ^4nz^h2:E^fFW0U@1nV0:1
+IL@Oj`A4MhBiALiWlB];Zi3
+R1
+w1664565595
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/tb.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/tb.v
+!i122 9
+L0 2 22
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab03/tb.v|
+!i113 1
+R5
+R6

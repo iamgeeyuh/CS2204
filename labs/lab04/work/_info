@@ -1,0 +1,253 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vcounter
+Z0 !s110 1666990236
+!i10b 1
+!s100 9mAVf5>@4D35QfeTh5VH03
+I;_]TlOZH402Fj_SjU;OTi0
+Z1 dC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04
+w1666378624
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter.v
+!i122 397
+L0 3 15
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1666990236.000000
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcounter_both
+!s110 1666376867
+!i10b 1
+!s100 Oh6:jAW@[Lgj;?nGB7GBG1
+IF]b4gNORY@2UKc]nW]oHo3
+R1
+w1665776916
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_both.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_both.v
+!i122 63
+L0 3 43
+R2
+R3
+r1
+!s85 0
+31
+!s108 1666376867.000000
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_both.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_both.v|
+!i113 1
+R5
+R6
+vcounter_forward
+R0
+!i10b 1
+!s100 <J3]aAH<Yj<X=MQ8D7R=S3
+I5an:LTGcoln`L_fGGnA_^2
+R1
+w1666378874
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_forward.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_forward.v
+!i122 393
+L0 3 23
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_forward.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_forward.v|
+!i113 1
+R5
+R6
+vcounter_odd_even
+R0
+!i10b 1
+!s100 mB@PBjkgiddFHl98LYSA]1
+IRnFId[Z95_6m;RMVHlSgR1
+R1
+w1666990183
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_odd_even.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_odd_even.v
+!i122 394
+L0 3 80
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_odd_even.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/counter_odd_even.v|
+!i113 1
+R5
+R6
+vdecoder_a
+R0
+!i10b 1
+!s100 AS_Df2S@1b:VX;=k7hhR71
+InP>;[1`@:T[S[?Ziio6R@3
+R1
+w1665774577
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/assignment.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/assignment.v
+!i122 389
+Z7 L0 3 17
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/assignment.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/assignment.v|
+!i113 1
+R5
+R6
+vdecoder_c
+R0
+!i10b 1
+!s100 E<j74F[JK=[]PdfWb7YJf2
+IaOeJEfaKE4ld9cfE7ESNR0
+R1
+w1665774580
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/conditonal.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/conditonal.v
+!i122 390
+R7
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/conditonal.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/conditonal.v|
+!i113 1
+R5
+R6
+vdecoder_p
+R0
+!i10b 1
+!s100 B9[VUj5^`5_`k[n<I5l4^1
+Il`;Y>oDLNAEJlziXS?cE03
+R1
+w1665774636
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/primitive.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/primitive.v
+!i122 391
+L0 3 22
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/primitive.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/primitive.v|
+!i113 1
+R5
+R6
+vtb
+!s110 1666990237
+!i10b 1
+!s100 1i?WJ]Zi_K0P9iao?`K0V3
+I:iUhfPC;W5Xi8lGY>ZP5f3
+R1
+w1666377784
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb.v
+!i122 398
+L0 3 14
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb.v|
+!i113 1
+R5
+R6
+vtb_forward
+R0
+!i10b 1
+!s100 a_ATQgDkha>:CAXO9;fA;3
+IY3VF?fn0<:U8QEP:Lk@jJ1
+R1
+w1666377782
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_forward.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_forward.v
+!i122 395
+L0 3 16
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_forward.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_forward.v|
+!i113 1
+R5
+R6
+vtb_odd_even
+R0
+!i10b 1
+!s100 7RSI0k4ZDO;B:6De]A6Z_0
+IKNe@kXI;V3Cl0g[F25POC1
+R1
+w1666377780
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_odd_even.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_odd_even.v
+!i122 396
+L0 3 18
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_odd_even.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q2/tb_odd_even.v|
+!i113 1
+R5
+R6
+vtestbench
+R0
+!i10b 1
+!s100 f^G2cRDJ51^>_KTN`_W8j3
+IabDn=Km7;kP24iJBmXPD]0
+R1
+w1665774584
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/testbench.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/testbench.v
+!i122 392
+L0 3 19
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab04/q1/testbench.v|
+!i113 1
+R5
+R6

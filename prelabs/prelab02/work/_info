@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vaddern
+Z0 !s110 1662517159
+!i10b 1
+!s100 ISh^H]3lY73bjBUcSgN`X0
+IcjgmGg]=h=jai=4^2d5=D0
+Z1 dC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1
+w1662516995
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern.v
+!i122 13
+L0 3 8
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1662517159.000000
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vaddern_tb
+R0
+!i10b 1
+!s100 :UV3W?ik]6dcQ6z2cIT2o2
+I904[E;M5kiTK;77=hEBYb0
+R1
+w1662517134
+Z7 8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern_tb.v
+Z8 FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern_tb.v
+!i122 14
+L0 3 15
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern_tb.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern_tb.v|
+!i113 1
+R5
+R6

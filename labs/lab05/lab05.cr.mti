@@ -1,0 +1,15 @@
+C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/demulti.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/demulti.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module demulti
+
+Top level modules:
+	demulti
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/tb.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vlab_4
+Z0 !s110 1663355478
+!i10b 1
+!s100 S0KASkhzaZ0`2__Fk>;hm0
+IoLg2?cGUaJ>Az9PPYEjPC0
+Z1 dC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02
+w1663352496
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg_tb.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg_tb.v
+!i122 1
+L0 2 47
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1663355478.000000
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vseven_seg
+R0
+!i10b 1
+!s100 KHe[T@l4Jn5zEcz@T;FBL3
+I6=Pc8gMfJlK5lPW@=E]Nc0
+R1
+w1663352719
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg.v
+!i122 0
+L0 2 45
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab02/seven_seg.v|
+!i113 1
+R5
+R6

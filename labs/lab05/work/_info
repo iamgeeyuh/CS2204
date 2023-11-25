@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vdemulti
+Z0 !s110 1667761844
+!i10b 1
+!s100 DU@54^`fY>elMWU:NXGzS3
+II@Mh:l;NQM]Ck4@meg<cz2
+Z1 dC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05
+w1667761832
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/demulti.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/demulti.v
+!i122 14
+L0 3 14
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1667761844.000000
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/demulti.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/demulti.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb
+R0
+!i10b 1
+!s100 >ML37mdAMkHBT1IMj@YCg2
+IMYlJm<4MfLdIYcW5G8NhH2
+R1
+w1667761452
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/tb.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/tb.v
+!i122 15
+L0 3 20
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab05/tb.v|
+!i113 1
+R5
+R6

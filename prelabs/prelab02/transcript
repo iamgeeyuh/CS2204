@@ -1,0 +1,12 @@
+vsim work.addern_tb
+# vsim work.addern_tb 
+# Start time: 14:07:40 on Sep 09,2022
+# Loading work.addern_tb
+# Loading work.addern
+add wave -position end  sim:/addern_tb/cin
+add wave -position end  sim:/addern_tb/x
+add wave -position end  sim:/addern_tb/y
+add wave -position end  sim:/addern_tb/sum
+add wave -position end  sim:/addern_tb/cout
+run
+# WARNING: No extended dataflow license exists

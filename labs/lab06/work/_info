@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vcounter
+Z0 !s110 1670013280
+!i10b 1
+!s100 BW7jR=jY<nQboTE5OR6E[2
+Ij:>c9a@B_`V:C;N=d=Mmb2
+Z1 dC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06
+w1670013078
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/counter.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/counter.v
+!i122 40
+L0 3 12
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1670013280.000000
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdff
+R0
+!i10b 1
+!s100 B>TO3bGEN;=4LhbfE5SoD2
+I6nlX`]2og?WBb7Y=b7f2L0
+R1
+w1670009066
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/dff.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/dff.v
+!i122 41
+L0 3 17
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/dff.v|
+!i113 1
+R5
+R6
+vtb
+R0
+!i10b 1
+!s100 =lM8DfaRaDooA9`ecAkfM1
+I^639?L924keYzh[mb?1LQ2
+R1
+w1670013274
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/tb.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/tb.v
+!i122 42
+L0 3 18
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/tb.v|
+!i113 1
+R5
+R6

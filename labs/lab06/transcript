@@ -1,0 +1,19 @@
+vsim work.tb
+# vsim work.tb 
+# Start time: 15:51:56 on Dec 02,2022
+# Loading work.tb
+# Loading work.counter
+# Loading work.dff
+add wave -position insertpoint sim:/tb/*
+run
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/lab06.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/lab06.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/labs/lab06/lab06.mpf).  File can not be renamed.
+# End time: 16:14:00 on Dec 02,2022, Elapsed time: 0:22:04
+# Errors: 3, Warnings: 2

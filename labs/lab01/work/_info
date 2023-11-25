@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+vfull_adder
+Z0 !s110 1662150581
+!i10b 1
+!s100 8nz::bzT_U@HNjDCNVVhE2
+In6?WBFOE@7G^=G_N>@F[L1
+Z1 dC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1
+w1662150575
+Z2 8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder.v
+Z3 FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder.v
+!i122 2
+Z4 L0 3 4
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1662150581.000000
+Z8 !s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vfull_adder_tb
+R0
+!i10b 1
+!s100 hWc;g]L7=:`aO?m[@g<CQ1
+IY2`8hmLYTGMeK^D]F;YFG2
+R1
+w1662150455
+8C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder_tb.v
+FC:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder_tb.v
+!i122 3
+L0 3 17
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/lab1/full_adder_tb.v|
+!i113 1
+R10
+R11

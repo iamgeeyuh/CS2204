@@ -1,0 +1,15 @@
+C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module addern
+
+Top level modules:
+	addern
+
+} {} {}} C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern_tb.v {1 {vlog -work work -stats=none C:/Users/16464/OneDrive/Documents/Programming/Classes/CS2204/hw1/addern_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module addern_tb
+
+Top level modules:
+	addern_tb
+
+} {} {}}
